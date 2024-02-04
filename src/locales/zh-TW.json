@@ -1,0 +1,20 @@
+{
+    "text.hello": "你好，世界！",
+    "text.description": "MtF.im，給跨性別女性一個溫暖的空間",
+    "text.service-warning": "提示：本站的所有服務申請僅限跨性別女性，我們將會審核申請者的身份，非跨性別女性請不要申請本站服務。",
+    "footer.copyright.1": "版權所有",
+    "footer.copyright.2": "保留所有權利。",
+    "404.title": "主人，找不到頁面呢",
+    "404.description": "真是抱歉，但是我們真的找不到了呢，還請主人原諒啦~",
+    "404.button": "返回首頁",
+    "home.description": "給跨性別女性一個溫暖的空間",
+    "home.welcome": "歡迎來到MtF.im，這裡可以為跨性別女性提供自己的賽博空間。",
+    "appbar.subdomain": "域名申請",
+    "appbar.email": "信箱申請",
+    "appbar.space": "空間申請",
+    "appbar.developing": "開發中",
+    "appbar.notavliable": "未開放",
+    "subdomain.title": "歡迎來到子域名申請區",
+    "subdomain.description": "你可以在這裡申請子域名（比如example.mtf.im）作為你的個人空間的域名，禁止用於不法用途、騷擾和垃圾郵件等行為，違者將被封鎖並通報。",
+    "subdomain.notavliable": "該功能正在開發中，暫不接受申請。"
+}

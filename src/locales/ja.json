@@ -1,0 +1,20 @@
+{
+    "text.hello": "こんにちは、世界！",
+    "text.description": "MtF.im、トランスジェンダー女性に温かい空間を提供します",
+    "text.service-warning": "注意：このサイトのすべてのサービス申請はトランスジェンダー女性に限られています。申請者の身元を確認します。トランスジェンダー女性以外の方は、このサイトのサービスを申請しないでください。",
+    "footer.copyright.1": "著作権所有",
+    "footer.copyright.2": "全著作権所有。",
+    "404.title": "おっと、ページが見つかりません",
+    "404.description": "申し訳ありませんが、ページが見つかりませんでした。ご容赦ください~",
+    "404.button": "ホームページに戻る",
+    "home.description": "トランスジェンダー女性のための温かい空間を提供します",
+    "home.welcome": "MtF.imへようこそ。ここではトランスジェンダー女性に専用のサイバースペースを提供しています。",
+    "appbar.subdomain": "サブドメインの申請",
+    "appbar.email": "メールの申請",
+    "appbar.space": "スペースの申請",
+    "appbar.developing": "開発中",
+    "appbar.notavliable": "利用不可",
+    "subdomain.title": "サブドメイン申請エリアへようこそ",
+    "subdomain.description": "ここでは個人スペースのドメインとしてサブドメイン（例: example.mtf.im）を申請できます。違法行為、嫌がらせ、スパムなどの利用は禁止されています。違反者はブラックリストに登録され通報されます。",
+    "subdomain.notavliable": "この機能は開発中であり、現在は申請を受け付けていません。"
+}

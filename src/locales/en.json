@@ -1,0 +1,20 @@
+{
+    "text.hello": "Hello World!",
+    "text.description": "MtF.im, providing a warm space for transgender women",
+    "text.service-warning": "Note: All service applications on this site are limited to transgender women. We will verify the identity of applicants. Non-transgender women, please do not apply for services on this site.",
+    "footer.copyright.1": "Copyright",
+    "footer.copyright.2": "All rights reserved.",
+    "404.title": "Oops, Page Not Found",
+    "404.description": "We're sorry, but we couldn't find the page. Please forgive us~",
+    "404.button": "Return to Homepage",
+    "home.description": "Providing a warm space for transgender women",
+    "home.welcome": "Welcome to MtF.im, a cyber space dedicated to transgender women.",
+    "appbar.subdomain": "Subdomain Application",
+    "appbar.email": "Email Application",
+    "appbar.space": "Space Application",
+    "appbar.developing": "Under Development",
+    "appbar.notavliable": "Not Available",
+    "subdomain.title": "Welcome to the Subdomain Application Area",
+    "subdomain.description": "You can apply for a subdomain (e.g., example.mtf.im) as the domain for your personal space. Prohibited uses include illegal activities, harassment, and spam. Violators will be blacklisted and reported.",
+    "subdomain.notavliable": "This feature is under development and currently not available for application."
+}

@@ -1,0 +1,20 @@
+{
+    "text.hello": "你好，世界！",
+    "text.description": "MtF.im，给跨性别女性一个温暖的空间",
+    "text.service-warning": "提示：本站的所有服务申请仅限跨性别女性，我们将会审核申请者的身份，非跨性别女性请不要申请本站服务。",
+    "footer.copyright.1": "版权所有",
+    "footer.copyright.2": "保留所有权利。",
+    "404.title": "主人，找不到页面呢",
+    "404.description": "真是抱歉，但是我们真的找不到了呢，还请主人原谅啦~",
+    "404.button": "返回主页",
+    "home.description": "给跨性别女性一个温暖的空间",
+    "home.welcome": "欢迎来到MtF.im，这里可以为跨性别女性提供自己的赛博空间。",
+    "appbar.subdomain": "域名申请",
+    "appbar.email": "邮箱申请",
+    "appbar.space": "空间申请",
+    "appbar.developing": "开发中",
+    "appbar.notavliable": "未开放",
+    "subdomain.title": "欢迎来到子域名申请区",
+    "subdomain.description": "你可以在这里申请子域名（比如example.mtf.im）作为你的个人空间的域名，禁止用于不法用途、骚扰和垃圾邮件等行为，违者将被拉黑并通报。",
+    "subdomain.notavliable": "该功能正在开发中，暂不接受申请。"
+}

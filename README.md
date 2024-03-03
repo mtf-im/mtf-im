@@ -1,6 +1,6 @@
 <div align="center">
 
-# MtF-IM </br> ![License: MIT License](https://img.shields.io/github/license/mtf-im/mtf-im.svg) ![Downloads](https://img.shields.io/github/downloads/mtf-im/mtf-im/total.svg)
+# MtF-IM </br> ![License: MIT License](https://img.shields.io/github/license/mtf-im/mtf-im.svg) [![Crowdin](https://badges.crowdin.net/mtf-im/localized.svg)](https://crowdin.com/project/mtf-im)
 
 The Homepage of [MtF.im](https://mtf.im), A Warm Space for MtF Transgender Individuals.
 </div>

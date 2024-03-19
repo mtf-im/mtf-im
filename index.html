@@ -1,13 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/tpf.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/tpf.svg">
     <title>MtF.im</title>
-  </head>
-  <body>
+    <meta name="description" content="MtF.im: A dedicated space for transgender women, providing support and resources in a warm and welcoming environment. Note: Services are exclusively for transgender women with identity verification.">
+    <meta name="keywords" content="transgender women, MtF, support, safe space, subdomain application, identity verification, transgender community, exclusive services">
+    <link rel="preload" href="/src/main.js" as="script">
+</head>
+
+<body>
     <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+    <script type="module" src="/src/main.js" defer></script>
+    <script>
+        // Example JavaScript to change language settings based on user's choice or browser settings
+        document.addEventListener('DOMContentLoaded', () => {
+            const userLang = navigator.language || navigator.userLanguage;
+            // Logic to determine the language (simplified here)
+            const lang = userLang.startsWith('zh') ? 'zh' : userLang.startsWith('ja') ? 'ja' : 'en';
+            document.documentElement.setAttribute('lang', lang);
+
+            // Update meta tags based on lang
+            // This should ideally be done via server-side rendering or JavaScript framework's i18n solution
+            // TODO
+        });
+    </script>
+</body>
+
 </html>

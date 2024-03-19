@@ -7,7 +7,7 @@ const { t } = useI18n()
 <template>
     <div class="relative mx-auto w-full max-w-container px-4 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-[40rem] lg:max-w-7xl">
-            <h2 class="m-4 text-2xl font-bold text-gray-900">{{ t("subdomain.title") }}</h2>
+            <h2 class="m-4 text-2xl font-bold">{{ t("subdomain.title") }}</h2>
             <div role="alert" class="alert alert-warning">
                 <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none"
                     viewBox="0 0 24 24">
